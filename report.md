@@ -1,1 +1,1 @@
-
+What I have learned doing this lab is using Github and how Github and Git works collaborately. I also learnt how to build a semantic HTML portfolio page using Github and Git. Also, how to initiate a repository, manage branches, writing meaningful commit messages, and deploy my portfolio to Github pages.
